@@ -7,7 +7,9 @@
 •	Shahrbanoo Gholami
 
 **GitHub & USM**
+
 The link to the team's GitHub: https://github.com/ense871string/ENSE871-Winter2022-Strings
+
 The link to the team's USM: https://landofooo.storiesonboard.com/m/ense-871-team-string-project
 
 **Problem description**
